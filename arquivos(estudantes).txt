@@ -1,0 +1,2 @@
+nome: rafael, idade: 22, curso: tec
+nome: joao, idade: 20, curso: meca

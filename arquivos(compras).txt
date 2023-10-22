@@ -1,0 +1,3 @@
+produto: leite, valor: 5
+produto: pao, valor: 1
+produto: manteiga, valor: 5000
