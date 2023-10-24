@@ -1,4 +1,3 @@
-c = 0
 nomes = []
 dados = {}
 
@@ -11,7 +10,6 @@ with open('arquivos(estudantes).txt', 'r') as arquivo:
         nomes.append(nome)
         novos_dados = {nome: {'idade': idade, 'curso': curso}}
         dados.update(novos_dados)
-        c += 1
 
 procurar = str(input('Digite o nome de quem deseja verificar os dados: '))
 if procurar in dados:
